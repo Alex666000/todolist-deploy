@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/toolkit-lessons/static/css/main.e6c13ad2.css",
-    "main.js": "/toolkit-lessons/static/js/main.da34e41c.js",
-    "index.html": "/toolkit-lessons/index.html",
-    "main.e6c13ad2.css.map": "/toolkit-lessons/static/css/main.e6c13ad2.css.map",
-    "main.da34e41c.js.map": "/toolkit-lessons/static/js/main.da34e41c.js.map"
+    "main.css": "/todolist-deploy/static/css/main.e6c13ad2.css",
+    "main.js": "/todolist-deploy/static/js/main.da34e41c.js",
+    "index.html": "/todolist-deploy/index.html",
+    "main.e6c13ad2.css.map": "/todolist-deploy/static/css/main.e6c13ad2.css.map",
+    "main.da34e41c.js.map": "/todolist-deploy/static/js/main.da34e41c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
